@@ -1,0 +1,12 @@
+[
+  {"id":1,"name":"John","age":28,"sex":"M","salary":55000,"bmi":24.5,"children":2,"smoker":"Yes","region":"North","department":"Sales","join_date":"2020-01-15","is_manager":false},
+  {"id":2,"name":"Jane","age":34,"sex":"F","salary":62000,"bmi":22.1,"children":1,"smoker":"No","region":"South","department":"Marketing","join_date":"2019-06-23","is_manager":true},
+  {"id":3,"name":"Bob","age":45,"sex":"M","salary":70000,"bmi":27.8,"children":3,"smoker":"Yes","region":"East","department":"IT","join_date":"2015-09-10","is_manager":false},
+  {"id":4,"name":"Alice","age":29,"sex":"F","salary":58000,"bmi":23.4,"children":0,"smoker":"No","region":"West","department":"HR","join_date":"2021-03-12","is_manager":false},
+  {"id":5,"name":"Mike","age":38,"sex":"M","salary":65000,"bmi":28.2,"children":null,"smoker":"Yes","region":"North","department":"Finance","join_date":"2018-12-01","is_manager":true},
+  {"id":6,"name":"Linda","age":31,"sex":"F","salary":60000,"bmi":21.9,"children":2,"smoker":"No","region":"South","department":"IT","join_date":"2020-07-08","is_manager":false},
+  {"id":7,"name":"Steve","age":42,"sex":"M","salary":72000,"bmi":26.5,"children":1,"smoker":"Yes","region":"East","department":"Marketing","join_date":"2016-11-20","is_manager":true},
+  {"id":8,"name":"Karen","age":36,"sex":"F","salary":null,"bmi":24.9,"children":2,"smoker":"No","region":"West","department":"Sales","join_date":"2017-04-30","is_manager":false},
+  {"id":9,"name":"Tom","age":39,"sex":"M","salary":68000,"bmi":29.1,"children":3,"smoker":"Yes","region":"North","department":"Finance","join_date":"2015-05-14","is_manager":false},
+  {"id":10,"name":"Susan","age":33,"sex":"F","salary":61000,"bmi":23.0,"children":1,"smoker":"No","region":"South","department":"HR","join_date":"2019-08-25","is_manager":false}
+]
